@@ -68,8 +68,6 @@ if(check(somma) === sceltaUser){
 sceltaUtente.innerHTML = sceltaUser;
 
 
-
-
 function sommaNum(num1, num2){
   return num1 + num2;
 };
