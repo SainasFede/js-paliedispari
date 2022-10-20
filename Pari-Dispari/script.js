@@ -65,7 +65,6 @@ if(check(somma) === sceltaUser){
 }else{
   document.getElementById('esito').innerHTML = 'Hai perso mi dispiace, ritenta sarai più fortunato';
 };
-sceltaUtente.innerHTML = sceltaUser;
 
 
 function sommaNum(num1, num2){
